@@ -1,4 +1,7 @@
-# Logistic-Regression-using-Tensoflow
+# Logistic-Regression-using-Tensorflow
+
+For code refer to: 1.1_SR_Logistic_Regression
+
 Implementation of Logistic Regression (predict a image is of chair-recliner or not) using Tensorflow.
 
 
